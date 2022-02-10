@@ -1,7 +1,7 @@
 # ic-06
 ic-06 - Intro to JavaScript
 
-Link to GitHub Pages: `[insert your clickable hyperlink here]`
+Link to GitHub Pages: `https://github.com/DS4200-S22/ic-06-ethanlee222.git`
 
 ## Purpose
 
